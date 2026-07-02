@@ -176,7 +176,7 @@ Contributions are welcome! Feel free to fork the repository, create a feature br
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the Eclipse Public License - v 2.0.
 
 ---
 
